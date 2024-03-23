@@ -1,0 +1,9 @@
+body {
+    height: 750px; 
+    background-color:rgb(255, 240, 243); 
+    background-image: url(https://th.bing.com/th/id/OIP.iHz801FW4JA1QwWwKGsv8AHaEi?rs=1&pid=ImgDetMain); 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-attachment: fixed; 
+    background-size: cover;
+}
